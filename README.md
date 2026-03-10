@@ -65,7 +65,7 @@ Backend에서 실시간으로 호출합니다.
 
 ## 🗺️ 경로 및 혼잡도 시각화
 
-[프론트엔드](https://github.com/jeongmin24/norush2025-fe)에서는 모바일 환경에서 사용자가 직관적으로 확인할 수 있도록
+[프론트엔드](https://github.com/jeongmin24/norush2025_fe)에서는 모바일 환경에서 사용자가 직관적으로 확인할 수 있도록
 
 - 지도 기반 경로 표시
 - 혼잡도 색상 표시
